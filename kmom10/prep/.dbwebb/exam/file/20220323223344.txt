@@ -1,0 +1,2044 @@
+20220323223344
+.
+total 209
+drwxr-xr-x+ 1 chris chris      0 Mar 23 19:22 .dbwebb
+-rw-r--r--+ 1 chris chris  10501 Mar 23 19:22 INSTRUKTION_2020-03-26_rock.md
+-rw-r--r--+ 1 chris chris  10713 Mar 23 19:22 INSTRUKTION_2020-05-29_vapen.md
+-rw-r--r--+ 1 chris chris  10871 Mar 23 19:22 INSTRUKTION_2021-03-24_hund.md
+-rw-r--r--+ 1 chris chris  11214 Mar 23 19:22 INSTRUKTION_2021-05-28_vaccin.md
+-rw-r--r--+ 1 chris chris   3926 Mar 23 19:22 README_FIRST.md
+-rwxrwxrwx+ 1 chris chris   1609 Mar 23 22:25 cli.js
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:25 config
+drwxrwxrwx+ 1 chris chris      0 Mar 23 20:00 doc
+-rwxrwxrwx+ 1 chris chris   1149 Mar 20 22:32 index.js
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:25 middleware
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris 115066 Mar 23 19:24 package-lock.json
+-rwxrwxrwx+ 1 chris chris    375 Mar 23 19:25 package.json
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:25 public
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:25 route
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:25 sql
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:25 src
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:25 views
+./.dbwebb
+total 0
+drwxr-xr-x+ 1 chris chris 0 Mar 23 19:22 exam
+./.dbwebb/exam
+total 1
+drwxr-xr-x+ 1 chris chris  0 Mar 23 22:33 file
+-rw-r--r--+ 1 chris chris 36 Mar 23 19:22 id.md
+drwxr-xr-x+ 1 chris chris  0 Mar 23 22:33 receipt
+./.dbwebb/exam/file
+total 96
+-rw-rw-r--+ 1 chris chris   861 Mar 23 19:22 20220323192226.txt
+-rw-rw-r--+ 1 chris chris 89900 Mar 23 20:55 20220323205526.txt
+-rw-rw-r--+ 1 chris chris  1413 Mar 23 22:33 20220323223344.txt
+./.dbwebb/exam/receipt
+total 3
+-rw-r--r--+ 1 chris chris 592 Mar 23 19:22 20220323182225.md
+-rw-rw-r--+ 1 chris chris 592 Mar 23 20:55 20220323205524.md
+-rw-r--r--+ 1 chris chris 680 Mar 23 22:33 20220323213344.md
+./config
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:25 db
+./config/db
+total 1
+-rwxrwxrwx+ 1 chris chris 140 Mar 23 22:31 exam.json
+./doc
+total 40
+-rwxrwxrwx+ 1 chris chris 40840 Mar 23 19:59 er_vaccin.pdf
+./middleware
+total 1
+-rwxrwxrwx+ 1 chris chris 212 Mar 20 22:33 index.js
+./node_modules/.bin
+total 54
+-rwxrwxrwx+ 1 chris chris 296 Mar 23 19:24 ejs
+-rwxrwxrwx+ 1 chris chris 319 Mar 23 19:24 ejs.cmd
+-rwxrwxrwx+ 1 chris chris 781 Mar 23 19:24 ejs.ps1
+-rwxrwxrwx+ 1 chris chris 292 Mar 23 19:24 is-ci
+-rwxrwxrwx+ 1 chris chris 317 Mar 23 19:24 is-ci.cmd
+-rwxrwxrwx+ 1 chris chris 773 Mar 23 19:24 is-ci.ps1
+-rwxrwxrwx+ 1 chris chris 298 Mar 23 19:24 jake
+-rwxrwxrwx+ 1 chris chris 320 Mar 23 19:24 jake.cmd
+-rwxrwxrwx+ 1 chris chris 785 Mar 23 19:24 jake.ps1
+-rwxrwxrwx+ 1 chris chris 290 Mar 23 19:24 mime
+-rwxrwxrwx+ 1 chris chris 316 Mar 23 19:24 mime.cmd
+-rwxrwxrwx+ 1 chris chris 769 Mar 23 19:24 mime.ps1
+-rwxrwxrwx+ 1 chris chris 312 Mar 23 19:24 nodemon
+-rwxrwxrwx+ 1 chris chris 327 Mar 23 19:24 nodemon.cmd
+-rwxrwxrwx+ 1 chris chris 813 Mar 23 19:24 nodemon.ps1
+-rwxrwxrwx+ 1 chris chris 312 Mar 23 19:24 nodetouch
+-rwxrwxrwx+ 1 chris chris 327 Mar 23 19:24 nodetouch.cmd
+-rwxrwxrwx+ 1 chris chris 813 Mar 23 19:24 nodetouch.ps1
+-rwxrwxrwx+ 1 chris chris 300 Mar 23 19:24 nopt
+-rwxrwxrwx+ 1 chris chris 321 Mar 23 19:24 nopt.cmd
+-rwxrwxrwx+ 1 chris chris 789 Mar 23 19:24 nopt.ps1
+-rwxrwxrwx+ 1 chris chris 286 Mar 23 19:24 rc
+-rwxrwxrwx+ 1 chris chris 314 Mar 23 19:24 rc.cmd
+-rwxrwxrwx+ 1 chris chris 761 Mar 23 19:24 rc.ps1
+-rwxrwxrwx+ 1 chris chris 302 Mar 23 19:24 semver
+-rwxrwxrwx+ 1 chris chris 322 Mar 23 19:24 semver.cmd
+-rwxrwxrwx+ 1 chris chris 793 Mar 23 19:24 semver.ps1
+./node_modules/@sindresorhus
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 is
+./node_modules/@sindresorhus/is
+total 20
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 dist
+-rwxrwxrwx+ 1 chris chris  1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  1256 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 10313 Mar 23 19:24 readme.md
+./node_modules/@sindresorhus/is/dist
+total 32
+-rwxrwxrwx+ 1 chris chris  6063 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 10891 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 10526 Mar 23 19:24 index.js.map
+./node_modules/@szmarczak
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 http-timer
+./node_modules/@szmarczak/http-timer
+total 12
+-rwxrwxrwx+ 1 chris chris 1071 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2241 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  889 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 source
+./node_modules/@szmarczak/http-timer/source
+total 4
+-rwxrwxrwx+ 1 chris chris 2095 Mar 23 19:24 index.js
+./node_modules/abbrev
+total 10
+-rwxrwxrwx+ 1 chris chris 2011 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  499 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1763 Mar 23 19:24 abbrev.js
+-rwxrwxrwx+ 1 chris chris  509 Mar 23 19:24 package.json
+./node_modules/accepts
+total 32
+-rwxrwxrwx+ 1 chris chris 5096 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1167 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4123 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 5252 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1157 Mar 23 19:24 package.json
+./node_modules/ansi-align
+total 20
+-rwxrwxrwx+ 1 chris chris 1748 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  731 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2945 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1334 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  926 Mar 23 19:24 package.json
+./node_modules/ansi-regex
+total 17
+-rwxrwxrwx+ 1 chris chris  744 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  350 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  841 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 2565 Mar 23 19:24 readme.md
+./node_modules/ansi-styles
+total 32
+-rwxrwxrwx+ 1 chris chris 6349 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 4139 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris 1054 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 4327 Mar 23 19:24 readme.md
+./node_modules/anymatch
+total 17
+-rwxrwxrwx+ 1 chris chris  784 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4023 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  660 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 3173 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  904 Mar 23 19:24 package.json
+./node_modules/array-flatten
+total 16
+-rwxrwxrwx+ 1 chris chris 1103 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1245 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1195 Mar 23 19:24 array-flatten.js
+-rwxrwxrwx+ 1 chris chris  879 Mar 23 19:24 package.json
+./node_modules/async
+total 63
+-rwxrwxrwx+ 1 chris chris    60 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris  1063 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 52082 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   674 Mar 23 19:24 bower.json
+-rwxrwxrwx+ 1 chris chris   297 Mar 23 19:24 component.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  1004 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 support
+./node_modules/async/lib
+total 36
+-rwxrwxrwx+ 1 chris chris 34652 Mar 23 19:24 async.js
+./node_modules/async/support
+total 4
+-rwxrwxrwx+ 1 chris chris 1553 Mar 23 19:24 sync-package-managers.js
+./node_modules/balanced-match
+total 16
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 .github
+-rwxrwxrwx+ 1 chris chris 1096 Mar 23 19:24 LICENSE.md
+-rwxrwxrwx+ 1 chris chris 3502 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1219 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1069 Mar 23 19:24 package.json
+./node_modules/balanced-match/.github
+total 1
+-rwxrwxrwx+ 1 chris chris 53 Mar 23 19:24 FUNDING.yml
+./node_modules/binary-extensions
+total 16
+-rwxrwxrwx+ 1 chris chris 2158 Mar 23 19:24 binary-extensions.json
+-rwxrwxrwx+ 1 chris chris   87 Mar 23 19:24 binary-extensions.json.d.ts
+-rwxrwxrwx+ 1 chris chris  249 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris   54 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1159 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  652 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  997 Mar 23 19:24 readme.md
+./node_modules/body-parser
+total 48
+-rwxrwxrwx+ 1 chris chris 15619 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris  1172 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 17796 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  2656 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 lib
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris  1370 Mar 23 19:24 package.json
+./node_modules/body-parser/lib
+total 4
+-rwxrwxrwx+ 1 chris chris 3894 Mar 23 19:24 read.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 types
+./node_modules/body-parser/lib/types
+total 24
+-rwxrwxrwx+ 1 chris chris 4918 Mar 23 19:24 json.js
+-rwxrwxrwx+ 1 chris chris 1884 Mar 23 19:24 raw.js
+-rwxrwxrwx+ 1 chris chris 2285 Mar 23 19:24 text.js
+-rwxrwxrwx+ 1 chris chris 5797 Mar 23 19:24 urlencoded.js
+./node_modules/body-parser/node_modules
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 debug
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 ms
+./node_modules/body-parser/node_modules/debug
+total 54
+-rwxrwxrwx+ 1 chris chris    46 Mar 23 19:24 .coveralls.yml
+-rwxrwxrwx+ 1 chris chris   180 Mar 23 19:24 .eslintrc
+-rwxrwxrwx+ 1 chris chris    72 Mar 23 19:24 .npmignore
+-rwxrwxrwx+ 1 chris chris   140 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 11707 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1107 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  1059 Mar 23 19:24 Makefile
+-rwxrwxrwx+ 1 chris chris 17918 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   321 Mar 23 19:24 component.json
+-rwxrwxrwx+ 1 chris chris  1736 Mar 23 19:24 karma.conf.js
+-rwxrwxrwx+ 1 chris chris    40 Mar 23 19:24 node.js
+-rwxrwxrwx+ 1 chris chris  1138 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 src
+./node_modules/body-parser/node_modules/debug/src
+total 26
+-rwxrwxrwx+ 1 chris chris 4734 Mar 23 19:24 browser.js
+-rwxrwxrwx+ 1 chris chris 4394 Mar 23 19:24 debug.js
+-rwxrwxrwx+ 1 chris chris  263 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  373 Mar 23 19:24 inspector-log.js
+-rwxrwxrwx+ 1 chris chris 6015 Mar 23 19:24 node.js
+./node_modules/body-parser/node_modules/ms
+total 13
+-rwxrwxrwx+ 1 chris chris 2764 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1077 Mar 23 19:24 license.md
+-rwxrwxrwx+ 1 chris chris  704 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1721 Mar 23 19:24 readme.md
+./node_modules/boxen
+total 28
+-rwxrwxrwx+ 1 chris chris 3728 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 7995 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1117 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  908 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 4666 Mar 23 19:24 readme.md
+./node_modules/brace-expansion
+total 20
+-rwxrwxrwx+ 1 chris chris 1096 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4058 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 4792 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1113 Mar 23 19:24 package.json
+./node_modules/braces
+total 48
+-rwxrwxrwx+ 1 chris chris  5147 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1088 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 21130 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  4375 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  1647 Mar 23 19:24 package.json
+./node_modules/braces/lib
+total 25
+-rwxrwxrwx+ 1 chris chris 1415 Mar 23 19:24 compile.js
+-rwxrwxrwx+ 1 chris chris 1593 Mar 23 19:24 constants.js
+-rwxrwxrwx+ 1 chris chris 2780 Mar 23 19:24 expand.js
+-rwxrwxrwx+ 1 chris chris 6913 Mar 23 19:24 parse.js
+-rwxrwxrwx+ 1 chris chris  700 Mar 23 19:24 stringify.js
+-rwxrwxrwx+ 1 chris chris 2451 Mar 23 19:24 utils.js
+./node_modules/bytes
+total 24
+-rwxrwxrwx+ 1 chris chris 1775 Mar 23 19:24 History.md
+-rwxrwxrwx+ 1 chris chris 1153 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4770 Mar 23 19:24 Readme.md
+-rwxrwxrwx+ 1 chris chris 3613 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  959 Mar 23 19:24 package.json
+./node_modules/cacheable-request
+total 16
+-rwxrwxrwx+ 1 chris chris 1068 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 7586 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris 1160 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 src
+./node_modules/cacheable-request/node_modules
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 get-stream
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 lowercase-keys
+./node_modules/cacheable-request/node_modules/get-stream
+total 28
+-rwxrwxrwx+ 1 chris chris  894 Mar 23 19:24 buffer-stream.js
+-rwxrwxrwx+ 1 chris chris 3752 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 1444 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1117 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  858 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 4332 Mar 23 19:24 readme.md
+./node_modules/cacheable-request/node_modules/lowercase-keys
+total 8
+-rwxrwxrwx+ 1 chris chris  351 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  178 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  614 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  529 Mar 23 19:24 readme.md
+./node_modules/cacheable-request/src
+total 8
+-rwxrwxrwx+ 1 chris chris 6936 Mar 23 19:24 index.js
+./node_modules/camelcase
+total 20
+-rwxrwxrwx+ 1 chris chris 2543 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 3272 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1117 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  812 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 3953 Mar 23 19:24 readme.md
+./node_modules/chalk
+total 36
+-rwxrwxrwx+ 1 chris chris  8899 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  1109 Mar 23 19:24 license
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris  1197 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 13365 Mar 23 19:24 readme.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 source
+./node_modules/chalk/node_modules
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 has-flag
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 supports-color
+./node_modules/chalk/node_modules/has-flag
+total 11
+-rwxrwxrwx+ 1 chris chris  684 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  330 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  696 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1600 Mar 23 19:24 readme.md
+./node_modules/chalk/node_modules/supports-color
+total 17
+-rwxrwxrwx+ 1 chris chris   67 Mar 23 19:24 browser.js
+-rwxrwxrwx+ 1 chris chris 2748 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  817 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 2294 Mar 23 19:24 readme.md
+./node_modules/chalk/source
+total 16
+-rwxrwxrwx+ 1 chris chris 6075 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 3367 Mar 23 19:24 templates.js
+-rwxrwxrwx+ 1 chris chris 1035 Mar 23 19:24 util.js
+./node_modules/chokidar
+total 52
+-rwxrwxrwx+ 1 chris chris  1129 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 14275 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 28368 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  1832 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 types
+./node_modules/chokidar/lib
+total 40
+-rwxrwxrwx+ 1 chris chris  1834 Mar 23 19:24 constants.js
+-rwxrwxrwx+ 1 chris chris 16274 Mar 23 19:24 fsevents-handler.js
+-rwxrwxrwx+ 1 chris chris 20067 Mar 23 19:24 nodefs-handler.js
+./node_modules/chokidar/types
+total 8
+-rwxrwxrwx+ 1 chris chris 6303 Mar 23 19:24 index.d.ts
+./node_modules/ci-info
+total 28
+-rwxrwxrwx+ 1 chris chris 2004 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris 1091 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4146 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1739 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  798 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 3030 Mar 23 19:24 vendors.json
+./node_modules/cli-boxes
+total 18
+-rwxrwxrwx+ 1 chris chris 1037 Mar 23 19:24 boxes.json
+-rwxrwxrwx+ 1 chris chris 1545 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  167 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1117 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  692 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1580 Mar 23 19:24 readme.md
+./node_modules/clone-response
+total 12
+-rwxrwxrwx+ 1 chris chris 1068 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2087 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1055 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 src
+./node_modules/clone-response/src
+total 1
+-rwxrwxrwx+ 1 chris chris 401 Mar 23 19:24 index.js
+./node_modules/color-convert
+total 44
+-rwxrwxrwx+ 1 chris chris  1417 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1087 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  2853 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 17040 Mar 23 19:24 conversions.js
+-rwxrwxrwx+ 1 chris chris  1708 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris   827 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  2257 Mar 23 19:24 route.js
+./node_modules/color-name
+total 14
+-rwxrwxrwx+ 1 chris chris 1085 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  384 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 4617 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  607 Mar 23 19:24 package.json
+./node_modules/concat-map
+total 14
+-rwxrwxrwx+ 1 chris chris   43 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 1073 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1165 Mar 23 19:24 README.markdown
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 example
+-rwxrwxrwx+ 1 chris chris  345 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  989 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 test
+./node_modules/concat-map/example
+total 1
+-rwxrwxrwx+ 1 chris chris 171 Mar 23 19:24 map.js
+./node_modules/concat-map/test
+total 4
+-rwxrwxrwx+ 1 chris chris 1075 Mar 23 19:24 map.js
+./node_modules/configstore
+total 16
+-rwxrwxrwx+ 1 chris chris 2460 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1305 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  828 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 3021 Mar 23 19:24 readme.md
+./node_modules/content-disposition
+total 32
+-rwxrwxrwx+ 1 chris chris  1020 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris  1094 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  5205 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 10594 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  1200 Mar 23 19:24 package.json
+./node_modules/content-type
+total 21
+-rwxrwxrwx+ 1 chris chris  436 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1089 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2796 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 4809 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1070 Mar 23 19:24 package.json
+./node_modules/cookie
+total 28
+-rwxrwxrwx+ 1 chris chris  2922 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris  1175 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 10473 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  4047 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  1104 Mar 23 19:24 package.json
+./node_modules/cookie-signature
+total 11
+-rwxrwxrwx+ 1 chris chris   29 Mar 23 19:24 .npmignore
+-rwxrwxrwx+ 1 chris chris  695 Mar 23 19:24 History.md
+-rwxrwxrwx+ 1 chris chris 1490 Mar 23 19:24 Readme.md
+-rwxrwxrwx+ 1 chris chris 1230 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  492 Mar 23 19:24 package.json
+./node_modules/crypto-random-string
+total 11
+-rwxrwxrwx+ 1 chris chris  444 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  253 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  655 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1468 Mar 23 19:24 readme.md
+./node_modules/debug
+total 49
+-rwxrwxrwx+ 1 chris chris 12950 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1107 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 21045 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris    40 Mar 23 19:24 node.js
+-rwxrwxrwx+ 1 chris chris  1153 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 src
+./node_modules/debug/src
+total 25
+-rwxrwxrwx+ 1 chris chris 6285 Mar 23 19:24 browser.js
+-rwxrwxrwx+ 1 chris chris 5929 Mar 23 19:24 common.js
+-rwxrwxrwx+ 1 chris chris  331 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 4415 Mar 23 19:24 node.js
+./node_modules/decompress-response
+total 13
+-rwxrwxrwx+ 1 chris chris  628 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1120 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  951 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  841 Mar 23 19:24 readme.md
+./node_modules/deep-extend
+total 17
+-rwxrwxrwx+ 1 chris chris 1155 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris 1093 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1290 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   47 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris 1312 Mar 23 19:24 package.json
+./node_modules/deep-extend/lib
+total 8
+-rwxrwxrwx+ 1 chris chris 4293 Mar 23 19:24 deep-extend.js
+./node_modules/defer-to-connect
+total 12
+-rwxrwxrwx+ 1 chris chris 1071 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  951 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 dist
+-rwxrwxrwx+ 1 chris chris 1613 Mar 23 19:24 package.json
+./node_modules/defer-to-connect/dist
+total 5
+-rwxrwxrwx+ 1 chris chris  346 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 1470 Mar 23 19:24 index.js
+./node_modules/depd
+total 36
+-rwxrwxrwx+ 1 chris chris  2060 Mar 23 19:24 History.md
+-rwxrwxrwx+ 1 chris chris  1094 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 10025 Mar 23 19:24 Readme.md
+-rwxrwxrwx+ 1 chris chris 10669 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  1135 Mar 23 19:24 package.json
+./node_modules/depd/lib
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 browser
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 compat
+./node_modules/depd/lib/browser
+total 4
+-rwxrwxrwx+ 1 chris chris 1512 Mar 23 19:24 index.js
+./node_modules/depd/lib/compat
+total 9
+-rwxrwxrwx+ 1 chris chris 2229 Mar 23 19:24 callsite-tostring.js
+-rwxrwxrwx+ 1 chris chris  338 Mar 23 19:24 event-listener-count.js
+-rwxrwxrwx+ 1 chris chris 1421 Mar 23 19:24 index.js
+./node_modules/destroy
+total 16
+-rwxrwxrwx+ 1 chris chris 1099 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2185 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1043 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  870 Mar 23 19:24 package.json
+./node_modules/dot-prop
+total 20
+-rwxrwxrwx+ 1 chris chris 2543 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 2770 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  746 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 2439 Mar 23 19:24 readme.md
+./node_modules/duplexer3
+total 13
+-rwxrwxrwx+ 1 chris chris 1535 Mar 23 19:24 LICENSE.md
+-rwxrwxrwx+ 1 chris chris 2707 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1667 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  519 Mar 23 19:24 package.json
+./node_modules/ee-first
+total 16
+-rwxrwxrwx+ 1 chris chris 1099 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2617 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1684 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  859 Mar 23 19:24 package.json
+./node_modules/ejs
+total 112
+-rwxrwxrwx+ 1 chris chris 11358 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 12843 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 bin
+-rwxrwxrwx+ 1 chris chris 47134 Mar 23 19:24 ejs.js
+-rwxrwxrwx+ 1 chris chris 22607 Mar 23 19:24 ejs.min.js
+-rwxrwxrwx+ 1 chris chris  2296 Mar 23 19:24 jakefile.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris   896 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  1677 Mar 23 19:24 usage.txt
+./node_modules/ejs/bin
+total 8
+-rwxrwxrwx+ 1 chris chris 4702 Mar 23 19:24 cli.js
+./node_modules/ejs/lib
+total 36
+-rwxrwxrwx+ 1 chris chris 26680 Mar 23 19:24 ejs.js
+-rwxrwxrwx+ 1 chris chris  4165 Mar 23 19:24 utils.js
+./node_modules/emoji-regex
+total 37
+-rwxrwxrwx+ 1 chris chris  1077 Mar 23 19:24 LICENSE-MIT.txt
+-rwxrwxrwx+ 1 chris chris  2691 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 es2015
+-rwxrwxrwx+ 1 chris chris   427 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 10286 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  1278 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 10287 Mar 23 19:24 text.js
+./node_modules/emoji-regex/es2015
+total 24
+-rwxrwxrwx+ 1 chris chris 11104 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 11105 Mar 23 19:24 text.js
+./node_modules/encodeurl
+total 17
+-rwxrwxrwx+ 1 chris chris  238 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1089 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 3855 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1586 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1091 Mar 23 19:24 package.json
+./node_modules/end-of-stream
+total 16
+-rwxrwxrwx+ 1 chris chris 1078 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1701 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 2678 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  777 Mar 23 19:24 package.json
+./node_modules/escape-goat
+total 20
+-rwxrwxrwx+ 1 chris chris 1738 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  797 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  718 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1914 Mar 23 19:24 readme.md
+./node_modules/escape-html
+total 10
+-rwxrwxrwx+ 1 chris chris 1157 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  707 Mar 23 19:24 Readme.md
+-rwxrwxrwx+ 1 chris chris 1362 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  434 Mar 23 19:24 package.json
+./node_modules/etag
+total 24
+-rwxrwxrwx+ 1 chris chris 1732 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1094 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4198 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 2479 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1306 Mar 23 19:24 package.json
+./node_modules/express
+total 133
+-rwxrwxrwx+ 1 chris chris 110963 Mar 23 19:24 History.md
+-rwxrwxrwx+ 1 chris chris   1249 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris   4811 Mar 23 19:24 Readme.md
+-rwxrwxrwx+ 1 chris chris    224 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:24 lib
+drwxrwxrwx+ 1 chris chris      0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris   2651 Mar 23 19:24 package.json
+./node_modules/express/lib
+total 76
+-rwxrwxrwx+ 1 chris chris 14271 Mar 23 19:24 application.js
+-rwxrwxrwx+ 1 chris chris  2409 Mar 23 19:24 express.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 middleware
+-rwxrwxrwx+ 1 chris chris 12505 Mar 23 19:24 request.js
+-rwxrwxrwx+ 1 chris chris 27287 Mar 23 19:24 response.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 router
+-rwxrwxrwx+ 1 chris chris  5930 Mar 23 19:24 utils.js
+-rwxrwxrwx+ 1 chris chris  3326 Mar 23 19:24 view.js
+./node_modules/express/lib/middleware
+total 8
+-rwxrwxrwx+ 1 chris chris 853 Mar 23 19:24 init.js
+-rwxrwxrwx+ 1 chris chris 885 Mar 23 19:24 query.js
+./node_modules/express/lib/router
+total 28
+-rwxrwxrwx+ 1 chris chris 15033 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  3296 Mar 23 19:24 layer.js
+-rwxrwxrwx+ 1 chris chris  4149 Mar 23 19:24 route.js
+./node_modules/express/node_modules
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 debug
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 ms
+./node_modules/express/node_modules/debug
+total 54
+-rwxrwxrwx+ 1 chris chris    46 Mar 23 19:24 .coveralls.yml
+-rwxrwxrwx+ 1 chris chris   180 Mar 23 19:24 .eslintrc
+-rwxrwxrwx+ 1 chris chris    72 Mar 23 19:24 .npmignore
+-rwxrwxrwx+ 1 chris chris   140 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 11707 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1107 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  1059 Mar 23 19:24 Makefile
+-rwxrwxrwx+ 1 chris chris 17918 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   321 Mar 23 19:24 component.json
+-rwxrwxrwx+ 1 chris chris  1736 Mar 23 19:24 karma.conf.js
+-rwxrwxrwx+ 1 chris chris    40 Mar 23 19:24 node.js
+-rwxrwxrwx+ 1 chris chris  1138 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 src
+./node_modules/express/node_modules/debug/src
+total 26
+-rwxrwxrwx+ 1 chris chris 4734 Mar 23 19:24 browser.js
+-rwxrwxrwx+ 1 chris chris 4394 Mar 23 19:24 debug.js
+-rwxrwxrwx+ 1 chris chris  263 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  373 Mar 23 19:24 inspector-log.js
+-rwxrwxrwx+ 1 chris chris 6015 Mar 23 19:24 node.js
+./node_modules/express/node_modules/ms
+total 13
+-rwxrwxrwx+ 1 chris chris 2764 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1077 Mar 23 19:24 license.md
+-rwxrwxrwx+ 1 chris chris  704 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1721 Mar 23 19:24 readme.md
+./node_modules/filelist
+total 26
+-rwxrwxrwx+ 1 chris chris  2131 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  2958 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 12953 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris   238 Mar 23 19:24 jakefile.js
+-rwxrwxrwx+ 1 chris chris   637 Mar 23 19:24 package.json
+./node_modules/fill-range
+total 24
+-rwxrwxrwx+ 1 chris chris 1091 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 7486 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 6315 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1459 Mar 23 19:24 package.json
+./node_modules/finalhandler
+total 24
+-rwxrwxrwx+ 1 chris chris 4080 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1119 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4012 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 6518 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris 1314 Mar 23 19:24 package.json
+./node_modules/finalhandler/node_modules
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 debug
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 ms
+./node_modules/finalhandler/node_modules/debug
+total 54
+-rwxrwxrwx+ 1 chris chris    46 Mar 23 19:24 .coveralls.yml
+-rwxrwxrwx+ 1 chris chris   180 Mar 23 19:24 .eslintrc
+-rwxrwxrwx+ 1 chris chris    72 Mar 23 19:24 .npmignore
+-rwxrwxrwx+ 1 chris chris   140 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 11707 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1107 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  1059 Mar 23 19:24 Makefile
+-rwxrwxrwx+ 1 chris chris 17918 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   321 Mar 23 19:24 component.json
+-rwxrwxrwx+ 1 chris chris  1736 Mar 23 19:24 karma.conf.js
+-rwxrwxrwx+ 1 chris chris    40 Mar 23 19:24 node.js
+-rwxrwxrwx+ 1 chris chris  1138 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 src
+./node_modules/finalhandler/node_modules/debug/src
+total 26
+-rwxrwxrwx+ 1 chris chris 4734 Mar 23 19:24 browser.js
+-rwxrwxrwx+ 1 chris chris 4394 Mar 23 19:24 debug.js
+-rwxrwxrwx+ 1 chris chris  263 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  373 Mar 23 19:24 inspector-log.js
+-rwxrwxrwx+ 1 chris chris 6015 Mar 23 19:24 node.js
+./node_modules/finalhandler/node_modules/ms
+total 13
+-rwxrwxrwx+ 1 chris chris 2764 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1077 Mar 23 19:24 license.md
+-rwxrwxrwx+ 1 chris chris  704 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1721 Mar 23 19:24 readme.md
+./node_modules/forwarded
+total 17
+-rwxrwxrwx+ 1 chris chris  400 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1094 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1654 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1578 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1150 Mar 23 19:24 package.json
+./node_modules/fresh
+total 20
+-rwxrwxrwx+ 1 chris chris 1500 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1174 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 3374 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 2711 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1357 Mar 23 19:24 package.json
+./node_modules/get-stream
+total 20
+-rwxrwxrwx+ 1 chris chris  841 Mar 23 19:24 buffer-stream.js
+-rwxrwxrwx+ 1 chris chris 1251 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  713 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 3963 Mar 23 19:24 readme.md
+./node_modules/glob-parent
+total 28
+-rwxrwxrwx+ 1 chris chris 4510 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  753 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4646 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1120 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1105 Mar 23 19:24 package.json
+./node_modules/global-dirs
+total 20
+-rwxrwxrwx+ 1 chris chris 1288 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 3195 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1117 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  934 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1758 Mar 23 19:24 readme.md
+./node_modules/got
+total 56
+-rwxrwxrwx+ 1 chris chris  1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  1323 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 44187 Mar 23 19:24 readme.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 source
+./node_modules/got/source
+total 53
+-rwxrwxrwx+ 1 chris chris 2878 Mar 23 19:24 as-promise.js
+-rwxrwxrwx+ 1 chris chris 2310 Mar 23 19:24 as-stream.js
+-rwxrwxrwx+ 1 chris chris 2106 Mar 23 19:24 create.js
+-rwxrwxrwx+ 1 chris chris 2842 Mar 23 19:24 errors.js
+-rwxrwxrwx+ 1 chris chris  935 Mar 23 19:24 get-response.js
+-rwxrwxrwx+ 1 chris chris  939 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  132 Mar 23 19:24 known-hook-events.js
+-rwxrwxrwx+ 1 chris chris 1858 Mar 23 19:24 merge.js
+-rwxrwxrwx+ 1 chris chris 7549 Mar 23 19:24 normalize-arguments.js
+-rwxrwxrwx+ 1 chris chris 2324 Mar 23 19:24 progress.js
+-rwxrwxrwx+ 1 chris chris 8856 Mar 23 19:24 request-as-event-emitter.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 utils
+./node_modules/got/source/utils
+total 12
+-rwxrwxrwx+ 1 chris chris  276 Mar 23 19:24 deep-freeze.js
+-rwxrwxrwx+ 1 chris chris  644 Mar 23 19:24 get-body-size.js
+-rwxrwxrwx+ 1 chris chris  134 Mar 23 19:24 is-form-data.js
+-rwxrwxrwx+ 1 chris chris 4421 Mar 23 19:24 timed-out.js
+-rwxrwxrwx+ 1 chris chris  588 Mar 23 19:24 url-to-options.js
+./node_modules/graceful-fs
+total 45
+-rwxrwxrwx+ 1 chris chris   781 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  4741 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   496 Mar 23 19:24 clone.js
+-rwxrwxrwx+ 1 chris chris 12164 Mar 23 19:24 graceful-fs.js
+-rwxrwxrwx+ 1 chris chris  2655 Mar 23 19:24 legacy-streams.js
+-rwxrwxrwx+ 1 chris chris   988 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  9771 Mar 23 19:24 polyfills.js
+./node_modules/has-flag
+total 10
+-rwxrwxrwx+ 1 chris chris  320 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  710 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  986 Mar 23 19:24 readme.md
+./node_modules/has-yarn
+total 11
+-rwxrwxrwx+ 1 chris chris  448 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  268 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  599 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  968 Mar 23 19:24 readme.md
+./node_modules/http-cache-semantics
+total 44
+-rwxrwxrwx+ 1 chris chris  1274 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 10387 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 23786 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris   733 Mar 23 19:24 package.json
+./node_modules/http-errors
+total 28
+-rwxrwxrwx+ 1 chris chris 3418 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1168 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 5959 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 6521 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1250 Mar 23 19:24 package.json
+./node_modules/iconv-lite
+total 28
+-rwxrwxrwx+ 1 chris chris 4342 Mar 23 19:24 Changelog.md
+-rwxrwxrwx+ 1 chris chris 1064 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 6534 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 encodings
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris 1227 Mar 23 19:24 package.json
+./node_modules/iconv-lite/encodings
+total 113
+-rwxrwxrwx+ 1 chris chris 21415 Mar 23 19:24 dbcs-codec.js
+-rwxrwxrwx+ 1 chris chris  8291 Mar 23 19:24 dbcs-data.js
+-rwxrwxrwx+ 1 chris chris   710 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  6115 Mar 23 19:24 internal.js
+-rwxrwxrwx+ 1 chris chris  2191 Mar 23 19:24 sbcs-codec.js
+-rwxrwxrwx+ 1 chris chris 32034 Mar 23 19:24 sbcs-data-generated.js
+-rwxrwxrwx+ 1 chris chris  4686 Mar 23 19:24 sbcs-data.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 tables
+-rwxrwxrwx+ 1 chris chris  5011 Mar 23 19:24 utf16.js
+-rwxrwxrwx+ 1 chris chris  9215 Mar 23 19:24 utf7.js
+./node_modules/iconv-lite/encodings/tables
+total 228
+-rwxrwxrwx+ 1 chris chris 17717 Mar 23 19:24 big5-added.json
+-rwxrwxrwx+ 1 chris chris 47320 Mar 23 19:24 cp936.json
+-rwxrwxrwx+ 1 chris chris 38122 Mar 23 19:24 cp949.json
+-rwxrwxrwx+ 1 chris chris 42356 Mar 23 19:24 cp950.json
+-rwxrwxrwx+ 1 chris chris 41064 Mar 23 19:24 eucjp.json
+-rwxrwxrwx+ 1 chris chris  2216 Mar 23 19:24 gb18030-ranges.json
+-rwxrwxrwx+ 1 chris chris  1227 Mar 23 19:24 gbk-added.json
+-rwxrwxrwx+ 1 chris chris 23782 Mar 23 19:24 shiftjis.json
+./node_modules/iconv-lite/lib
+total 32
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 bom-handling.js
+-rwxrwxrwx+ 1 chris chris 8701 Mar 23 19:24 extend-node.js
+-rwxrwxrwx+ 1 chris chris  982 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 5123 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 3387 Mar 23 19:24 streams.js
+./node_modules/ignore-by-default
+total 10
+-rwxrwxrwx+ 1 chris chris 748 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 680 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 614 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 775 Mar 23 19:24 package.json
+./node_modules/import-lazy
+total 16
+-rwxrwxrwx+ 1 chris chris  976 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1119 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  720 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1951 Mar 23 19:24 readme.md
+./node_modules/imurmurhash
+total 24
+-rwxrwxrwx+ 1 chris chris 4763 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 4412 Mar 23 19:24 imurmurhash.js
+-rwxrwxrwx+ 1 chris chris 1894 Mar 23 19:24 imurmurhash.min.js
+-rwxrwxrwx+ 1 chris chris  818 Mar 23 19:24 package.json
+./node_modules/inherits
+total 14
+-rwxrwxrwx+ 1 chris chris  749 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1625 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  250 Mar 23 19:24 inherits.js
+-rwxrwxrwx+ 1 chris chris  753 Mar 23 19:24 inherits_browser.js
+-rwxrwxrwx+ 1 chris chris  581 Mar 23 19:24 package.json
+./node_modules/ini
+total 20
+-rwxrwxrwx+ 1 chris chris  765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2718 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 5107 Mar 23 19:24 ini.js
+-rwxrwxrwx+ 1 chris chris  884 Mar 23 19:24 package.json
+./node_modules/ipaddr.js
+total 32
+-rwxrwxrwx+ 1 chris chris 1087 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 8309 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 9738 Mar 23 19:24 ipaddr.min.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  719 Mar 23 19:24 package.json
+./node_modules/ipaddr.js/lib
+total 24
+-rwxrwxrwx+ 1 chris chris 19333 Mar 23 19:24 ipaddr.js
+-rwxrwxrwx+ 1 chris chris  2959 Mar 23 19:24 ipaddr.js.d.ts
+./node_modules/is-binary-path
+total 11
+-rwxrwxrwx+ 1 chris chris  290 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  239 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1159 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  657 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  733 Mar 23 19:24 readme.md
+./node_modules/is-ci
+total 15
+-rwxrwxrwx+ 1 chris chris  269 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris 1091 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1299 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   70 Mar 23 19:24 bin.js
+-rwxrwxrwx+ 1 chris chris   55 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  797 Mar 23 19:24 package.json
+./node_modules/is-extglob
+total 13
+-rwxrwxrwx+ 1 chris chris 1087 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 3469 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  441 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1220 Mar 23 19:24 package.json
+./node_modules/is-fullwidth-code-point
+total 17
+-rwxrwxrwx+ 1 chris chris  549 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 1756 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  737 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  843 Mar 23 19:24 readme.md
+./node_modules/is-glob
+total 20
+-rwxrwxrwx+ 1 chris chris 1088 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 7145 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 3628 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1748 Mar 23 19:24 package.json
+./node_modules/is-installed-globally
+total 14
+-rwxrwxrwx+ 1 chris chris  379 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  342 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1117 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  940 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  828 Mar 23 19:24 readme.md
+./node_modules/is-npm
+total 14
+-rwxrwxrwx+ 1 chris chris  780 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  456 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1117 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  664 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 2087 Mar 23 19:24 readme.md
+./node_modules/is-number
+total 17
+-rwxrwxrwx+ 1 chris chris 1091 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 6514 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  411 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1599 Mar 23 19:24 package.json
+./node_modules/is-obj
+total 8
+-rwxrwxrwx+ 1 chris chris  345 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  144 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  535 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  688 Mar 23 19:24 readme.md
+./node_modules/is-path-inside
+total 14
+-rwxrwxrwx+ 1 chris chris  758 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  290 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  590 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1374 Mar 23 19:24 readme.md
+./node_modules/is-typedarray
+total 14
+-rwxrwxrwx+ 1 chris chris 1073 Mar 23 19:24 LICENSE.md
+-rwxrwxrwx+ 1 chris chris  558 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1016 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  665 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1095 Mar 23 19:24 test.js
+./node_modules/is-yarn-global
+total 11
+-rwxrwxrwx+ 1 chris chris   43 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 1065 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  769 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  309 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  366 Mar 23 19:24 package.json
+./node_modules/jake
+total 21
+-rwxrwxrwx+ 1 chris chris 1319 Mar 23 19:24 Makefile
+-rwxrwxrwx+ 1 chris chris  556 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 bin
+-rwxrwxrwx+ 1 chris chris 2336 Mar 23 19:24 jakefile.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  951 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 test
+-rwxrwxrwx+ 1 chris chris  993 Mar 23 19:24 usage.txt
+./node_modules/jake/bin
+total 8
+-rwxrwxrwx+ 1 chris chris 1375 Mar 23 19:24 bash_completion.sh
+-rwxrwxrwx+ 1 chris chris  907 Mar 23 19:24 cli.js
+./node_modules/jake/lib
+total 92
+-rwxrwxrwx+ 1 chris chris 12216 Mar 23 19:24 api.js
+-rwxrwxrwx+ 1 chris chris  9697 Mar 23 19:24 jake.js
+-rwxrwxrwx+ 1 chris chris  4411 Mar 23 19:24 loader.js
+-rwxrwxrwx+ 1 chris chris  2453 Mar 23 19:24 namespace.js
+-rwxrwxrwx+ 1 chris chris 11004 Mar 23 19:24 package_task.js
+-rwxrwxrwx+ 1 chris chris  3753 Mar 23 19:24 parseargs.js
+-rwxrwxrwx+ 1 chris chris  6544 Mar 23 19:24 program.js
+-rwxrwxrwx+ 1 chris chris  9079 Mar 23 19:24 publish_task.js
+-rwxrwxrwx+ 1 chris chris  7873 Mar 23 19:24 rule.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 task
+-rwxrwxrwx+ 1 chris chris  8482 Mar 23 19:24 test_task.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 utils
+./node_modules/jake/lib/task
+total 18
+-rwxrwxrwx+ 1 chris chris   575 Mar 23 19:24 directory_task.js
+-rwxrwxrwx+ 1 chris chris  3306 Mar 23 19:24 file_task.js
+-rwxrwxrwx+ 1 chris chris   238 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 12259 Mar 23 19:24 task.js
+./node_modules/jake/lib/utils
+total 17
+-rwxrwxrwx+ 1 chris chris 7660 Mar 23 19:24 file.js
+-rwxrwxrwx+ 1 chris chris 7274 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  505 Mar 23 19:24 logger.js
+./node_modules/jake/test
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 integration
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 unit
+./node_modules/jake/test/integration
+total 57
+-rwxrwxrwx+ 1 chris chris 1626 Mar 23 19:24 concurrent.js
+-rwxrwxrwx+ 1 chris chris 6598 Mar 23 19:24 file.js
+-rwxrwxrwx+ 1 chris chris 4565 Mar 23 19:24 file_task.js
+-rwxrwxrwx+ 1 chris chris 1590 Mar 23 19:24 helpers.js
+-rwxrwxrwx+ 1 chris chris 9118 Mar 23 19:24 jakefile.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 jakelib
+-rwxrwxrwx+ 1 chris chris  678 Mar 23 19:24 publish_task.js
+-rwxrwxrwx+ 1 chris chris 6816 Mar 23 19:24 rule.js
+-rwxrwxrwx+ 1 chris chris  812 Mar 23 19:24 selfdep.js
+-rwxrwxrwx+ 1 chris chris 5688 Mar 23 19:24 task_base.js
+./node_modules/jake/test/integration/jakelib
+total 17
+-rwxrwxrwx+ 1 chris chris 2473 Mar 23 19:24 concurrent.jake.js
+-rwxrwxrwx+ 1 chris chris 1413 Mar 23 19:24 publish.jake.js
+-rwxrwxrwx+ 1 chris chris  182 Mar 23 19:24 required_module.jake.js
+-rwxrwxrwx+ 1 chris chris 6881 Mar 23 19:24 rule.jake.js
+./node_modules/jake/test/unit
+total 13
+-rwxrwxrwx+ 1 chris chris  580 Mar 23 19:24 jakefile.js
+-rwxrwxrwx+ 1 chris chris 2582 Mar 23 19:24 namespace.js
+-rwxrwxrwx+ 1 chris chris 5320 Mar 23 19:24 parseargs.js
+./node_modules/json-buffer
+total 15
+-rwxrwxrwx+ 1 chris chris   42 Mar 23 19:24 .npmignore
+-rwxrwxrwx+ 1 chris chris   38 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 1071 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  658 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1503 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  878 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 test
+./node_modules/json-buffer/test
+total 4
+-rwxrwxrwx+ 1 chris chris 1246 Mar 23 19:24 index.js
+./node_modules/keyv
+total 20
+-rwxrwxrwx+ 1 chris chris  1068 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 10115 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  1183 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 src
+./node_modules/keyv/src
+total 4
+-rwxrwxrwx+ 1 chris chris 2295 Mar 23 19:24 index.js
+./node_modules/latest-version
+total 14
+-rwxrwxrwx+ 1 chris chris  981 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  334 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  710 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1158 Mar 23 19:24 readme.md
+./node_modules/lowercase-keys
+total 7
+-rwxrwxrwx+ 1 chris chris  208 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1119 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  596 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  533 Mar 23 19:24 readme.md
+./node_modules/lru-cache
+total 21
+-rwxrwxrwx+ 1 chris chris  765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 5987 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 8186 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  705 Mar 23 19:24 package.json
+./node_modules/make-dir
+total 20
+-rwxrwxrwx+ 1 chris chris 1534 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 3124 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris 1051 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 3224 Mar 23 19:24 readme.md
+./node_modules/make-dir/node_modules
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 .bin
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 semver
+./node_modules/make-dir/node_modules/.bin
+total 6
+-rwxrwxrwx+ 1 chris chris 308 Mar 23 19:24 semver
+-rwxrwxrwx+ 1 chris chris 325 Mar 23 19:24 semver.cmd
+-rwxrwxrwx+ 1 chris chris 805 Mar 23 19:24 semver.ps1
+./node_modules/make-dir/node_modules/semver
+total 74
+-rwxrwxrwx+ 1 chris chris  1307 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris   765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 16974 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 bin
+-rwxrwxrwx+ 1 chris chris   559 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris   619 Mar 23 19:24 range.bnf
+-rwxrwxrwx+ 1 chris chris 42130 Mar 23 19:24 semver.js
+./node_modules/make-dir/node_modules/semver/bin
+total 8
+-rwxrwxrwx+ 1 chris chris 4717 Mar 23 19:24 semver.js
+./node_modules/media-typer
+total 21
+-rwxrwxrwx+ 1 chris chris  461 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1089 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2371 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 6375 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  759 Mar 23 19:24 package.json
+./node_modules/merge-descriptors
+total 17
+-rwxrwxrwx+ 1 chris chris  363 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1167 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1213 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1215 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  931 Mar 23 19:24 package.json
+./node_modules/methods
+total 17
+-rwxrwxrwx+ 1 chris chris  427 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1180 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1694 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1040 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  947 Mar 23 19:24 package.json
+./node_modules/mime
+total 61
+-rwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 .npmignore
+-rwxrwxrwx+ 1 chris chris  9473 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1098 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  2119 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   149 Mar 23 19:24 cli.js
+-rwxrwxrwx+ 1 chris chris  2726 Mar 23 19:24 mime.js
+-rwxrwxrwx+ 1 chris chris   933 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 src
+-rwxrwxrwx+ 1 chris chris 31555 Mar 23 19:24 types.json
+./node_modules/mime/src
+total 8
+-rwxrwxrwx+ 1 chris chris 1351 Mar 23 19:24 build.js
+-rwxrwxrwx+ 1 chris chris 2334 Mar 23 19:24 test.js
+./node_modules/mime-db
+total 213
+-rwxrwxrwx+ 1 chris chris  12581 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris   1172 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris   4091 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 185882 Mar 23 19:24 db.json
+-rwxrwxrwx+ 1 chris chris    189 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris   1624 Mar 23 19:24 package.json
+./node_modules/mime-types
+total 28
+-rwxrwxrwx+ 1 chris chris 8812 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1167 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 3481 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 3663 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1149 Mar 23 19:24 package.json
+./node_modules/mimic-response
+total 13
+-rwxrwxrwx+ 1 chris chris  758 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  651 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1066 Mar 23 19:24 readme.md
+./node_modules/minimatch
+total 41
+-rwxrwxrwx+ 1 chris chris   765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  7171 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 26266 Mar 23 19:24 minimatch.js
+-rwxrwxrwx+ 1 chris chris   700 Mar 23 19:24 package.json
+./node_modules/minimist
+total 25
+-rwxrwxrwx+ 1 chris chris  116 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 1073 Mar 23 19:24 LICENSE
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 example
+-rwxrwxrwx+ 1 chris chris 7807 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  883 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 2590 Mar 23 19:24 readme.markdown
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 test
+./node_modules/minimist/example
+total 1
+-rwxrwxrwx+ 1 chris chris 69 Mar 23 19:24 parse.js
+./node_modules/minimist/test
+total 53
+-rwxrwxrwx+ 1 chris chris  756 Mar 23 19:24 all_bool.js
+-rwxrwxrwx+ 1 chris chris 4208 Mar 23 19:24 bool.js
+-rwxrwxrwx+ 1 chris chris  980 Mar 23 19:24 dash.js
+-rwxrwxrwx+ 1 chris chris  778 Mar 23 19:24 default_bool.js
+-rwxrwxrwx+ 1 chris chris  588 Mar 23 19:24 dotted.js
+-rwxrwxrwx+ 1 chris chris  376 Mar 23 19:24 kv_short.js
+-rwxrwxrwx+ 1 chris chris  779 Mar 23 19:24 long.js
+-rwxrwxrwx+ 1 chris chris  909 Mar 23 19:24 num.js
+-rwxrwxrwx+ 1 chris chris 4606 Mar 23 19:24 parse.js
+-rwxrwxrwx+ 1 chris chris  238 Mar 23 19:24 parse_modified.js
+-rwxrwxrwx+ 1 chris chris 1793 Mar 23 19:24 proto.js
+-rwxrwxrwx+ 1 chris chris 1593 Mar 23 19:24 short.js
+-rwxrwxrwx+ 1 chris chris  328 Mar 23 19:24 stop_early.js
+-rwxrwxrwx+ 1 chris chris 2541 Mar 23 19:24 unknown.js
+-rwxrwxrwx+ 1 chris chris  191 Mar 23 19:24 whitespace.js
+./node_modules/ms
+total 16
+-rwxrwxrwx+ 1 chris chris 3024 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1079 Mar 23 19:24 license.md
+-rwxrwxrwx+ 1 chris chris  732 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1886 Mar 23 19:24 readme.md
+./node_modules/negotiator
+total 24
+-rwxrwxrwx+ 1 chris chris 2499 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1177 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4901 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 2451 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  993 Mar 23 19:24 package.json
+./node_modules/negotiator/lib
+total 20
+-rwxrwxrwx+ 1 chris chris 3081 Mar 23 19:24 charset.js
+-rwxrwxrwx+ 1 chris chris 3506 Mar 23 19:24 encoding.js
+-rwxrwxrwx+ 1 chris chris 3409 Mar 23 19:24 language.js
+-rwxrwxrwx+ 1 chris chris 5358 Mar 23 19:24 mediaType.js
+./node_modules/nodemon
+total 41
+-rwxrwxrwx+ 1 chris chris   360 Mar 23 19:24 .eslintrc.json
+-rwxrwxrwx+ 1 chris chris   239 Mar 23 19:24 .jshintrc
+-rwxrwxrwx+ 1 chris chris    27 Mar 23 19:24 .releaserc
+-rwxrwxrwx+ 1 chris chris   345 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris  1122 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 20484 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 bin
+-rwxrwxrwx+ 1 chris chris    70 Mar 23 19:24 commitlint.config.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 doc
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  2182 Mar 23 19:24 package.json
+./node_modules/nodemon/bin
+total 85
+-rwxrwxrwx+ 1 chris chris   438 Mar 23 19:24 nodemon.js
+-rwxrwxrwx+ 1 chris chris   894 Mar 23 19:24 postinstall.js
+-rwxrwxrwx+ 1 chris chris 80384 Mar 23 19:24 windows-kill.exe
+./node_modules/nodemon/doc
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 cli
+./node_modules/nodemon/doc/cli
+total 23
+-rwxrwxrwx+ 1 chris chris  236 Mar 23 19:24 authors.txt
+-rwxrwxrwx+ 1 chris chris 1158 Mar 23 19:24 config.txt
+-rwxrwxrwx+ 1 chris chris 1268 Mar 23 19:24 help.txt
+-rwxrwxrwx+ 1 chris chris  799 Mar 23 19:24 logo.txt
+-rwxrwxrwx+ 1 chris chris 1869 Mar 23 19:24 options.txt
+-rwxrwxrwx+ 1 chris chris  325 Mar 23 19:24 topics.txt
+-rwxrwxrwx+ 1 chris chris   88 Mar 23 19:24 usage.txt
+-rwxrwxrwx+ 1 chris chris 1223 Mar 23 19:24 whoami.txt
+./node_modules/nodemon/lib
+total 21
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 cli
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 config
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 help
+-rwxrwxrwx+ 1 chris chris   38 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 monitor
+-rwxrwxrwx+ 1 chris chris 8777 Mar 23 19:24 nodemon.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 rules
+-rwxrwxrwx+ 1 chris chris 1893 Mar 23 19:24 spawn.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 utils
+-rwxrwxrwx+ 1 chris chris 2465 Mar 23 19:24 version.js
+./node_modules/nodemon/lib/cli
+total 12
+-rwxrwxrwx+ 1 chris chris 1089 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 6039 Mar 23 19:24 parse.js
+./node_modules/nodemon/lib/config
+total 28
+-rwxrwxrwx+ 1 chris chris 1249 Mar 23 19:24 command.js
+-rwxrwxrwx+ 1 chris chris  815 Mar 23 19:24 defaults.js
+-rwxrwxrwx+ 1 chris chris 6859 Mar 23 19:24 exec.js
+-rwxrwxrwx+ 1 chris chris 2511 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 7613 Mar 23 19:24 load.js
+./node_modules/nodemon/lib/help
+total 4
+-rwxrwxrwx+ 1 chris chris 733 Mar 23 19:24 index.js
+./node_modules/nodemon/lib/monitor
+total 38
+-rwxrwxrwx+ 1 chris chris    82 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  6730 Mar 23 19:24 match.js
+-rwxrwxrwx+ 1 chris chris 16482 Mar 23 19:24 run.js
+-rwxrwxrwx+ 1 chris chris   488 Mar 23 19:24 signals.js
+-rwxrwxrwx+ 1 chris chris  6454 Mar 23 19:24 watch.js
+./node_modules/nodemon/lib/rules
+total 12
+-rwxrwxrwx+ 1 chris chris 2662 Mar 23 19:24 add.js
+-rwxrwxrwx+ 1 chris chris 1260 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  804 Mar 23 19:24 parse.js
+./node_modules/nodemon/lib/utils
+total 21
+-rwxrwxrwx+ 1 chris chris  946 Mar 23 19:24 bus.js
+-rwxrwxrwx+ 1 chris chris  829 Mar 23 19:24 clone.js
+-rwxrwxrwx+ 1 chris chris  690 Mar 23 19:24 colour.js
+-rwxrwxrwx+ 1 chris chris 2580 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1738 Mar 23 19:24 log.js
+-rwxrwxrwx+ 1 chris chris 1186 Mar 23 19:24 merge.js
+./node_modules/nopt
+total 13
+-rwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 .npmignore
+-rwxrwxrwx+ 1 chris chris 1092 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 7476 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 bin
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 examples
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  485 Mar 23 19:24 package.json
+./node_modules/nopt/bin
+total 4
+-rwxrwxrwx+ 1 chris chris 1277 Mar 23 19:24 nopt.js
+./node_modules/nopt/examples
+total 4
+-rwxrwxrwx+ 1 chris chris 1032 Mar 23 19:24 my-program.js
+./node_modules/nopt/lib
+total 16
+-rwxrwxrwx+ 1 chris chris 15345 Mar 23 19:24 nopt.js
+./node_modules/normalize-path
+total 20
+-rwxrwxrwx+ 1 chris chris 1088 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 5441 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1024 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1666 Mar 23 19:24 package.json
+./node_modules/normalize-url
+total 29
+-rwxrwxrwx+ 1 chris chris 4952 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 6046 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  707 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 5291 Mar 23 19:24 readme.md
+./node_modules/on-finished
+total 24
+-rwxrwxrwx+ 1 chris chris 1694 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1167 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4886 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 3686 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  878 Mar 23 19:24 package.json
+./node_modules/once
+total 13
+-rwxrwxrwx+ 1 chris chris  765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1772 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  935 Mar 23 19:24 once.js
+-rwxrwxrwx+ 1 chris chris  574 Mar 23 19:24 package.json
+./node_modules/p-cancelable
+total 24
+-rwxrwxrwx+ 1 chris chris 4564 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 1927 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  821 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 4094 Mar 23 19:24 readme.md
+./node_modules/package-json
+total 24
+-rwxrwxrwx+ 1 chris chris 6001 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 2789 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris  813 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 3565 Mar 23 19:24 readme.md
+./node_modules/package-json/node_modules
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 .bin
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 semver
+./node_modules/package-json/node_modules/.bin
+total 6
+-rwxrwxrwx+ 1 chris chris 308 Mar 23 19:24 semver
+-rwxrwxrwx+ 1 chris chris 325 Mar 23 19:24 semver.cmd
+-rwxrwxrwx+ 1 chris chris 805 Mar 23 19:24 semver.ps1
+./node_modules/package-json/node_modules/semver
+total 74
+-rwxrwxrwx+ 1 chris chris  1307 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris   765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 16974 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 bin
+-rwxrwxrwx+ 1 chris chris   559 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris   619 Mar 23 19:24 range.bnf
+-rwxrwxrwx+ 1 chris chris 42130 Mar 23 19:24 semver.js
+./node_modules/package-json/node_modules/semver/bin
+total 8
+-rwxrwxrwx+ 1 chris chris 4717 Mar 23 19:24 semver.js
+./node_modules/parseurl
+total 20
+-rwxrwxrwx+ 1 chris chris 1043 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1173 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4094 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 2809 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1180 Mar 23 19:24 package.json
+./node_modules/path-to-regexp
+total 14
+-rwxrwxrwx+ 1 chris chris  694 Mar 23 19:24 History.md
+-rwxrwxrwx+ 1 chris chris 1103 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1102 Mar 23 19:24 Readme.md
+-rwxrwxrwx+ 1 chris chris 3328 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  554 Mar 23 19:24 package.json
+./node_modules/picomatch
+total 45
+-rwxrwxrwx+ 1 chris chris  6203 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1091 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 27445 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris    60 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  1912 Mar 23 19:24 package.json
+./node_modules/picomatch/lib
+total 64
+-rwxrwxrwx+ 1 chris chris  4448 Mar 23 19:24 constants.js
+-rwxrwxrwx+ 1 chris chris 27763 Mar 23 19:24 parse.js
+-rwxrwxrwx+ 1 chris chris  9956 Mar 23 19:24 picomatch.js
+-rwxrwxrwx+ 1 chris chris  9189 Mar 23 19:24 scan.js
+-rwxrwxrwx+ 1 chris chris  1885 Mar 23 19:24 utils.js
+./node_modules/prepend-http
+total 10
+-rwxrwxrwx+ 1 chris chris  387 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  622 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  862 Mar 23 19:24 readme.md
+./node_modules/proxy-addr
+total 28
+-rwxrwxrwx+ 1 chris chris 2991 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1094 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4131 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 6000 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1183 Mar 23 19:24 package.json
+./node_modules/pstree.remy
+total 7
+-rwxrwxrwx+ 1 chris chris  100 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 1126 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  421 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  629 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 tests
+./node_modules/pstree.remy/lib
+total 12
+-rwxrwxrwx+ 1 chris chris  800 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  857 Mar 23 19:24 tree.js
+-rwxrwxrwx+ 1 chris chris 1171 Mar 23 19:24 utils.js
+./node_modules/pstree.remy/tests
+total 4
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 fixtures
+-rwxrwxrwx+ 1 chris chris 1387 Mar 23 19:24 index.test.js
+./node_modules/pstree.remy/tests/fixtures
+total 13
+-rwxrwxrwx+ 1 chris chris  282 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 2382 Mar 23 19:24 out1
+-rwxrwxrwx+ 1 chris chris 5822 Mar 23 19:24 out2
+./node_modules/pump
+total 22
+-rwxrwxrwx+ 1 chris chris   58 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 1078 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1721 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 2224 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  530 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1172 Mar 23 19:24 test-browser.js
+-rwxrwxrwx+ 1 chris chris  992 Mar 23 19:24 test-node.js
+./node_modules/pupa
+total 20
+-rwxrwxrwx+ 1 chris chris  746 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 1100 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  734 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1248 Mar 23 19:24 readme.md
+./node_modules/qs
+total 62
+-rwxrwxrwx+ 1 chris chris   540 Mar 23 19:24 .editorconfig
+-rwxrwxrwx+ 1 chris chris  1022 Mar 23 19:24 .eslintrc
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 .github
+-rwxrwxrwx+ 1 chris chris   216 Mar 23 19:24 .nycrc
+-rwxrwxrwx+ 1 chris chris 20575 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1600 Mar 23 19:24 LICENSE.md
+-rwxrwxrwx+ 1 chris chris 20533 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 dist
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  2008 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 test
+./node_modules/qs/.github
+total 1
+-rwxrwxrwx+ 1 chris chris 548 Mar 23 19:24 FUNDING.yml
+./node_modules/qs/dist
+total 28
+-rwxrwxrwx+ 1 chris chris 26761 Mar 23 19:24 qs.js
+./node_modules/qs/lib
+total 34
+-rwxrwxrwx+ 1 chris chris  476 Mar 23 19:24 formats.js
+-rwxrwxrwx+ 1 chris chris  211 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 9187 Mar 23 19:24 parse.js
+-rwxrwxrwx+ 1 chris chris 8915 Mar 23 19:24 stringify.js
+-rwxrwxrwx+ 1 chris chris 6823 Mar 23 19:24 utils.js
+./node_modules/qs/test
+total 76
+-rwxrwxrwx+ 1 chris chris 34740 Mar 23 19:24 parse.js
+-rwxrwxrwx+ 1 chris chris 30602 Mar 23 19:24 stringify.js
+-rwxrwxrwx+ 1 chris chris  5112 Mar 23 19:24 utils.js
+./node_modules/range-parser
+total 20
+-rwxrwxrwx+ 1 chris chris  917 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1178 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2278 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 2900 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1184 Mar 23 19:24 package.json
+./node_modules/raw-body
+total 36
+-rwxrwxrwx+ 1 chris chris 5665 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1181 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 6446 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 2286 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 6059 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1301 Mar 23 19:24 package.json
+./node_modules/rc
+total 24
+-rwxrwxrwx+ 1 chris chris  586 Mar 23 19:24 LICENSE.APACHE2
+-rwxrwxrwx+ 1 chris chris 1516 Mar 23 19:24 LICENSE.BSD
+-rwxrwxrwx+ 1 chris chris 1088 Mar 23 19:24 LICENSE.MIT
+-rwxrwxrwx+ 1 chris chris 5982 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  137 Mar 23 19:24 browser.js
+-rwxrwxrwx+ 1 chris chris  109 Mar 23 19:24 cli.js
+-rwxrwxrwx+ 1 chris chris 1503 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 lib
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris  695 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 test
+./node_modules/rc/lib
+total 4
+-rwxrwxrwx+ 1 chris chris 2759 Mar 23 19:24 utils.js
+./node_modules/rc/node_modules
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 ini
+./node_modules/rc/node_modules/ini
+total 20
+-rwxrwxrwx+ 1 chris chris  765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2718 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 4976 Mar 23 19:24 ini.js
+-rwxrwxrwx+ 1 chris chris  845 Mar 23 19:24 package.json
+./node_modules/rc/test
+total 9
+-rwxrwxrwx+ 1 chris chris  312 Mar 23 19:24 ini.js
+-rwxrwxrwx+ 1 chris chris 1392 Mar 23 19:24 nested-env-vars.js
+-rwxrwxrwx+ 1 chris chris 1176 Mar 23 19:24 test.js
+./node_modules/readdirp
+total 32
+-rwxrwxrwx+ 1 chris chris 1114 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 6942 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1018 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris 8876 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 2522 Mar 23 19:24 package.json
+./node_modules/registry-auth-token
+total 22
+-rwxrwxrwx+ 1 chris chris 3287 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris 1084 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1987 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  264 Mar 23 19:24 base64.js
+-rwxrwxrwx+ 1 chris chris 3846 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1021 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  231 Mar 23 19:24 registry-url.js
+./node_modules/registry-url
+total 14
+-rwxrwxrwx+ 1 chris chris  949 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  398 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  681 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1191 Mar 23 19:24 readme.md
+./node_modules/responselike
+total 12
+-rwxrwxrwx+ 1 chris chris 1055 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1924 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  825 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 src
+./node_modules/responselike/src
+total 4
+-rwxrwxrwx+ 1 chris chris 823 Mar 23 19:24 index.js
+./node_modules/safe-buffer
+total 44
+-rwxrwxrwx+ 1 chris chris  1081 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 19555 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  8738 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  1670 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  1057 Mar 23 19:24 package.json
+./node_modules/safer-buffer
+total 60
+-rwxrwxrwx+ 1 chris chris  1094 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 12794 Mar 23 19:24 Porting-Buffer.md
+-rwxrwxrwx+ 1 chris chris  8261 Mar 23 19:24 Readme.md
+-rwxrwxrwx+ 1 chris chris  1483 Mar 23 19:24 dangerous.js
+-rwxrwxrwx+ 1 chris chris   822 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  2110 Mar 23 19:24 safer.js
+-rwxrwxrwx+ 1 chris chris 15735 Mar 23 19:24 tests.js
+./node_modules/semver
+total 63
+-rwxrwxrwx+ 1 chris chris   672 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris   765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 15723 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 bin
+-rwxrwxrwx+ 1 chris chris   578 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris   619 Mar 23 19:24 range.bnf
+-rwxrwxrwx+ 1 chris chris 38803 Mar 23 19:24 semver.js
+./node_modules/semver/bin
+total 8
+-rwxrwxrwx+ 1 chris chris 4418 Mar 23 19:24 semver
+./node_modules/semver-diff
+total 14
+-rwxrwxrwx+ 1 chris chris 1082 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  287 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris  637 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 2128 Mar 23 19:24 readme.md
+./node_modules/semver-diff/node_modules
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 .bin
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 semver
+./node_modules/semver-diff/node_modules/.bin
+total 6
+-rwxrwxrwx+ 1 chris chris 308 Mar 23 19:24 semver
+-rwxrwxrwx+ 1 chris chris 325 Mar 23 19:24 semver.cmd
+-rwxrwxrwx+ 1 chris chris 805 Mar 23 19:24 semver.ps1
+./node_modules/semver-diff/node_modules/semver
+total 74
+-rwxrwxrwx+ 1 chris chris  1307 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris   765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 16974 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 bin
+-rwxrwxrwx+ 1 chris chris   559 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris   619 Mar 23 19:24 range.bnf
+-rwxrwxrwx+ 1 chris chris 42130 Mar 23 19:24 semver.js
+./node_modules/semver-diff/node_modules/semver/bin
+total 8
+-rwxrwxrwx+ 1 chris chris 4717 Mar 23 19:24 semver.js
+./node_modules/send
+total 60
+-rwxrwxrwx+ 1 chris chris 12858 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris  1128 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  9476 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 23355 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris  1556 Mar 23 19:24 package.json
+./node_modules/send/node_modules
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 debug
+./node_modules/send/node_modules/debug
+total 54
+-rwxrwxrwx+ 1 chris chris    46 Mar 23 19:24 .coveralls.yml
+-rwxrwxrwx+ 1 chris chris   180 Mar 23 19:24 .eslintrc
+-rwxrwxrwx+ 1 chris chris    72 Mar 23 19:24 .npmignore
+-rwxrwxrwx+ 1 chris chris   140 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 11707 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  1107 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  1059 Mar 23 19:24 Makefile
+-rwxrwxrwx+ 1 chris chris 17918 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   321 Mar 23 19:24 component.json
+-rwxrwxrwx+ 1 chris chris  1736 Mar 23 19:24 karma.conf.js
+-rwxrwxrwx+ 1 chris chris    40 Mar 23 19:24 node.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris  1138 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 src
+./node_modules/send/node_modules/debug/node_modules
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 ms
+./node_modules/send/node_modules/debug/node_modules/ms
+total 13
+-rwxrwxrwx+ 1 chris chris 2764 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1077 Mar 23 19:24 license.md
+-rwxrwxrwx+ 1 chris chris  704 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1721 Mar 23 19:24 readme.md
+./node_modules/send/node_modules/debug/src
+total 26
+-rwxrwxrwx+ 1 chris chris 4734 Mar 23 19:24 browser.js
+-rwxrwxrwx+ 1 chris chris 4394 Mar 23 19:24 debug.js
+-rwxrwxrwx+ 1 chris chris  263 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  373 Mar 23 19:24 inspector-log.js
+-rwxrwxrwx+ 1 chris chris 6015 Mar 23 19:24 node.js
+./node_modules/serve-static
+total 36
+-rwxrwxrwx+ 1 chris chris 10235 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris  1189 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  7815 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  4570 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  1141 Mar 23 19:24 package.json
+./node_modules/setprototypeof
+total 11
+-rwxrwxrwx+ 1 chris chris  727 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris  844 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris   93 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  407 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1264 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 test
+./node_modules/setprototypeof/test
+total 1
+-rwxrwxrwx+ 1 chris chris 690 Mar 23 19:24 index.js
+./node_modules/signal-exit
+total 24
+-rwxrwxrwx+ 1 chris chris  748 Mar 23 19:24 LICENSE.txt
+-rwxrwxrwx+ 1 chris chris 1343 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 5708 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  864 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1295 Mar 23 19:24 signals.js
+./node_modules/statuses
+total 24
+-rwxrwxrwx+ 1 chris chris 1023 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1172 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 3458 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1821 Mar 23 19:24 codes.json
+-rwxrwxrwx+ 1 chris chris 2088 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1472 Mar 23 19:24 package.json
+./node_modules/string-width
+total 20
+-rwxrwxrwx+ 1 chris chris  792 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  923 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  941 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1396 Mar 23 19:24 readme.md
+./node_modules/strip-ansi
+total 14
+-rwxrwxrwx+ 1 chris chris  369 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  154 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  798 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1599 Mar 23 19:24 readme.md
+./node_modules/strip-json-comments
+total 16
+-rwxrwxrwx+ 1 chris chris 1700 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1119 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  749 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1493 Mar 23 19:24 readme.md
+./node_modules/supports-color
+total 17
+-rwxrwxrwx+ 1 chris chris   67 Mar 23 19:24 browser.js
+-rwxrwxrwx+ 1 chris chris 2771 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  818 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1865 Mar 23 19:24 readme.md
+./node_modules/to-readable-stream
+total 10
+-rwxrwxrwx+ 1 chris chris  160 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  659 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  861 Mar 23 19:24 readme.md
+./node_modules/to-regex-range
+total 32
+-rwxrwxrwx+ 1 chris chris  1091 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 13585 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  6481 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  1782 Mar 23 19:24 package.json
+./node_modules/toidentifier
+total 14
+-rwxrwxrwx+ 1 chris chris  128 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1108 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1803 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  504 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1142 Mar 23 19:24 package.json
+./node_modules/touch
+total 17
+-rwxrwxrwx+ 1 chris chris  748 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1224 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 bin
+-rwxrwxrwx+ 1 chris chris 5038 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  654 Mar 23 19:24 package.json
+./node_modules/touch/bin
+total 4
+-rwxrwxrwx+ 1 chris chris 2612 Mar 23 19:24 nodetouch.js
+./node_modules/type-fest
+total 49
+-rwxrwxrwx+ 1 chris chris  1724 Mar 23 19:24 base.d.ts
+-rwxrwxrwx+ 1 chris chris   115 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  1116 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  1039 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 30621 Mar 23 19:24 readme.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 source
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 ts41
+./node_modules/type-fest/source
+total 143
+-rwxrwxrwx+ 1 chris chris   715 Mar 23 19:24 async-return-type.d.ts
+-rwxrwxrwx+ 1 chris chris  1214 Mar 23 19:24 asyncify.d.ts
+-rwxrwxrwx+ 1 chris chris  2020 Mar 23 19:24 basic.d.ts
+-rwxrwxrwx+ 1 chris chris  1012 Mar 23 19:24 conditional-except.d.ts
+-rwxrwxrwx+ 1 chris chris  1199 Mar 23 19:24 conditional-keys.d.ts
+-rwxrwxrwx+ 1 chris chris   933 Mar 23 19:24 conditional-pick.d.ts
+-rwxrwxrwx+ 1 chris chris  2482 Mar 23 19:24 entries.d.ts
+-rwxrwxrwx+ 1 chris chris  2759 Mar 23 19:24 entry.d.ts
+-rwxrwxrwx+ 1 chris chris   886 Mar 23 19:24 except.d.ts
+-rwxrwxrwx+ 1 chris chris  1480 Mar 23 19:24 fixed-length-array.d.ts
+-rwxrwxrwx+ 1 chris chris  1282 Mar 23 19:24 iterable-element.d.ts
+-rwxrwxrwx+ 1 chris chris  1135 Mar 23 19:24 literal-union.d.ts
+-rwxrwxrwx+ 1 chris chris  1340 Mar 23 19:24 merge-exclusive.d.ts
+-rwxrwxrwx+ 1 chris chris   415 Mar 23 19:24 merge.d.ts
+-rwxrwxrwx+ 1 chris chris   860 Mar 23 19:24 mutable.d.ts
+-rwxrwxrwx+ 1 chris chris  2676 Mar 23 19:24 opaque.d.ts
+-rwxrwxrwx+ 1 chris chris 14074 Mar 23 19:24 package-json.d.ts
+-rwxrwxrwx+ 1 chris chris  2312 Mar 23 19:24 partial-deep.d.ts
+-rwxrwxrwx+ 1 chris chris   775 Mar 23 19:24 promisable.d.ts
+-rwxrwxrwx+ 1 chris chris  1050 Mar 23 19:24 promise-value.d.ts
+-rwxrwxrwx+ 1 chris chris  1828 Mar 23 19:24 readonly-deep.d.ts
+-rwxrwxrwx+ 1 chris chris   848 Mar 23 19:24 require-at-least-one.d.ts
+-rwxrwxrwx+ 1 chris chris  1255 Mar 23 19:24 require-exactly-one.d.ts
+-rwxrwxrwx+ 1 chris chris  1068 Mar 23 19:24 set-optional.d.ts
+-rwxrwxrwx+ 1 chris chris  1069 Mar 23 19:24 set-required.d.ts
+-rwxrwxrwx+ 1 chris chris  1698 Mar 23 19:24 set-return-type.d.ts
+-rwxrwxrwx+ 1 chris chris   416 Mar 23 19:24 stringified.d.ts
+-rwxrwxrwx+ 1 chris chris 16837 Mar 23 19:24 tsconfig-json.d.ts
+-rwxrwxrwx+ 1 chris chris  1961 Mar 23 19:24 union-to-intersection.d.ts
+-rwxrwxrwx+ 1 chris chris   236 Mar 23 19:24 utilities.d.ts
+-rwxrwxrwx+ 1 chris chris   829 Mar 23 19:24 value-of.d.ts
+./node_modules/type-fest/ts41
+total 12
+-rwxrwxrwx+ 1 chris chris 2107 Mar 23 19:24 camel-case.d.ts
+-rwxrwxrwx+ 1 chris chris 2846 Mar 23 19:24 delimiter-case.d.ts
+-rwxrwxrwx+ 1 chris chris  392 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  686 Mar 23 19:24 kebab-case.d.ts
+-rwxrwxrwx+ 1 chris chris  608 Mar 23 19:24 pascal-case.d.ts
+-rwxrwxrwx+ 1 chris chris  672 Mar 23 19:24 snake-case.d.ts
+./node_modules/type-is
+total 32
+-rwxrwxrwx+ 1 chris chris 5447 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1172 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 5183 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 5562 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1133 Mar 23 19:24 package.json
+./node_modules/typedarray-to-buffer
+total 18
+-rwxrwxrwx+ 1 chris chris  279 Mar 23 19:24 .airtap.yml
+-rwxrwxrwx+ 1 chris chris  480 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 1081 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 3463 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  758 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1149 Mar 23 19:24 package.json
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 test
+./node_modules/typedarray-to-buffer/test
+total 4
+-rwxrwxrwx+ 1 chris chris 1625 Mar 23 19:24 basic.js
+./node_modules/undefsafe
+total 16
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 .github
+-rwxrwxrwx+ 1 chris chris  364 Mar 23 19:24 .jscsrc
+-rwxrwxrwx+ 1 chris chris  240 Mar 23 19:24 .jshintrc
+-rwxrwxrwx+ 1 chris chris  283 Mar 23 19:24 .travis.yml
+-rwxrwxrwx+ 1 chris chris 1119 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1414 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  245 Mar 23 19:24 example.js
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 lib
+-rwxrwxrwx+ 1 chris chris  784 Mar 23 19:24 package.json
+./node_modules/undefsafe/.github
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 workflows
+./node_modules/undefsafe/.github/workflows
+total 1
+-rwxrwxrwx+ 1 chris chris 556 Mar 23 19:24 release.yml
+./node_modules/undefsafe/lib
+total 4
+-rwxrwxrwx+ 1 chris chris 2595 Mar 23 19:24 undefsafe.js
+./node_modules/unique-string
+total 8
+-rwxrwxrwx+ 1 chris chris  388 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  122 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  647 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  614 Mar 23 19:24 readme.md
+./node_modules/unpipe
+total 17
+-rwxrwxrwx+ 1 chris chris   59 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1114 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1250 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 1118 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  770 Mar 23 19:24 package.json
+./node_modules/update-notifier
+total 28
+-rwxrwxrwx+ 1 chris chris  780 Mar 23 19:24 check.js
+-rwxrwxrwx+ 1 chris chris 5358 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1254 Mar 23 19:24 license
+drwxrwxrwx+ 1 chris chris    0 Mar 23 19:24 node_modules
+-rwxrwxrwx+ 1 chris chris 1205 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 6668 Mar 23 19:24 readme.md
+./node_modules/update-notifier/node_modules
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 .bin
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:24 semver
+./node_modules/update-notifier/node_modules/.bin
+total 6
+-rwxrwxrwx+ 1 chris chris 308 Mar 23 19:24 semver
+-rwxrwxrwx+ 1 chris chris 325 Mar 23 19:24 semver.cmd
+-rwxrwxrwx+ 1 chris chris 805 Mar 23 19:24 semver.ps1
+./node_modules/update-notifier/node_modules/semver
+total 50
+-rwxrwxrwx+ 1 chris chris  2257 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris   765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 22109 Mar 23 19:24 README.md
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 bin
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 classes
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 functions
+-rwxrwxrwx+ 1 chris chris  1982 Mar 23 19:24 index.js
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 internal
+-rwxrwxrwx+ 1 chris chris   815 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris    69 Mar 23 19:24 preload.js
+-rwxrwxrwx+ 1 chris chris   619 Mar 23 19:24 range.bnf
+drwxrwxrwx+ 1 chris chris     0 Mar 23 19:24 ranges
+./node_modules/update-notifier/node_modules/semver/bin
+total 8
+-rwxrwxrwx+ 1 chris chris 4363 Mar 23 19:24 semver.js
+./node_modules/update-notifier/node_modules/semver/classes
+total 29
+-rwxrwxrwx+ 1 chris chris  3606 Mar 23 19:24 comparator.js
+-rwxrwxrwx+ 1 chris chris   128 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 13989 Mar 23 19:24 range.js
+-rwxrwxrwx+ 1 chris chris  7985 Mar 23 19:24 semver.js
+./node_modules/update-notifier/node_modules/semver/functions
+total 30
+-rwxrwxrwx+ 1 chris chris  191 Mar 23 19:24 clean.js
+-rwxrwxrwx+ 1 chris chris  907 Mar 23 19:24 cmp.js
+-rwxrwxrwx+ 1 chris chris 1497 Mar 23 19:24 coerce.js
+-rwxrwxrwx+ 1 chris chris  267 Mar 23 19:24 compare-build.js
+-rwxrwxrwx+ 1 chris chris  118 Mar 23 19:24 compare-loose.js
+-rwxrwxrwx+ 1 chris chris  156 Mar 23 19:24 compare.js
+-rwxrwxrwx+ 1 chris chris  634 Mar 23 19:24 diff.js
+-rwxrwxrwx+ 1 chris chris  112 Mar 23 19:24 eq.js
+-rwxrwxrwx+ 1 chris chris  110 Mar 23 19:24 gt.js
+-rwxrwxrwx+ 1 chris chris  113 Mar 23 19:24 gte.js
+-rwxrwxrwx+ 1 chris chris  336 Mar 23 19:24 inc.js
+-rwxrwxrwx+ 1 chris chris  110 Mar 23 19:24 lt.js
+-rwxrwxrwx+ 1 chris chris  113 Mar 23 19:24 lte.js
+-rwxrwxrwx+ 1 chris chris  122 Mar 23 19:24 major.js
+-rwxrwxrwx+ 1 chris chris  122 Mar 23 19:24 minor.js
+-rwxrwxrwx+ 1 chris chris  114 Mar 23 19:24 neq.js
+-rwxrwxrwx+ 1 chris chris  660 Mar 23 19:24 parse.js
+-rwxrwxrwx+ 1 chris chris  122 Mar 23 19:24 patch.js
+-rwxrwxrwx+ 1 chris chris  220 Mar 23 19:24 prerelease.js
+-rwxrwxrwx+ 1 chris chris  118 Mar 23 19:24 rcompare.js
+-rwxrwxrwx+ 1 chris chris  149 Mar 23 19:24 rsort.js
+-rwxrwxrwx+ 1 chris chris  233 Mar 23 19:24 satisfies.js
+-rwxrwxrwx+ 1 chris chris  147 Mar 23 19:24 sort.js
+-rwxrwxrwx+ 1 chris chris  162 Mar 23 19:24 valid.js
+./node_modules/update-notifier/node_modules/semver/internal
+total 12
+-rwxrwxrwx+ 1 chris chris  468 Mar 23 19:24 constants.js
+-rwxrwxrwx+ 1 chris chris  226 Mar 23 19:24 debug.js
+-rwxrwxrwx+ 1 chris chris  409 Mar 23 19:24 identifiers.js
+-rwxrwxrwx+ 1 chris chris  401 Mar 23 19:24 parse-options.js
+-rwxrwxrwx+ 1 chris chris 6662 Mar 23 19:24 re.js
+./node_modules/update-notifier/node_modules/semver/ranges
+total 27
+-rwxrwxrwx+ 1 chris chris  217 Mar 23 19:24 gtr.js
+-rwxrwxrwx+ 1 chris chris  201 Mar 23 19:24 intersects.js
+-rwxrwxrwx+ 1 chris chris  213 Mar 23 19:24 ltr.js
+-rwxrwxrwx+ 1 chris chris  579 Mar 23 19:24 max-satisfying.js
+-rwxrwxrwx+ 1 chris chris  577 Mar 23 19:24 min-satisfying.js
+-rwxrwxrwx+ 1 chris chris 1492 Mar 23 19:24 min-version.js
+-rwxrwxrwx+ 1 chris chris 2188 Mar 23 19:24 outside.js
+-rwxrwxrwx+ 1 chris chris 1287 Mar 23 19:24 simplify.js
+-rwxrwxrwx+ 1 chris chris 7224 Mar 23 19:24 subset.js
+-rwxrwxrwx+ 1 chris chris  268 Mar 23 19:24 to-comparators.js
+-rwxrwxrwx+ 1 chris chris  312 Mar 23 19:24 valid.js
+./node_modules/url-parse-lax
+total 13
+-rwxrwxrwx+ 1 chris chris  376 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  716 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 2030 Mar 23 19:24 readme.md
+./node_modules/utils-merge
+total 14
+-rwxrwxrwx+ 1 chris chris   79 Mar 23 19:24 .npmignore
+-rwxrwxrwx+ 1 chris chris 1084 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 1319 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  381 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris  857 Mar 23 19:24 package.json
+./node_modules/vary
+total 20
+-rwxrwxrwx+ 1 chris chris  792 Mar 23 19:24 HISTORY.md
+-rwxrwxrwx+ 1 chris chris 1094 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 2716 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 2930 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1215 Mar 23 19:24 package.json
+./node_modules/widest-line
+total 14
+-rwxrwxrwx+ 1 chris chris  490 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  322 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  894 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris  914 Mar 23 19:24 readme.md
+./node_modules/wrap-ansi
+total 20
+-rwxrwxrwx+ 1 chris chris 5772 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1117 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris 1014 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 2745 Mar 23 19:24 readme.md
+./node_modules/wrappy
+total 10
+-rwxrwxrwx+ 1 chris chris 765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 685 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 606 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 905 Mar 23 19:24 wrappy.js
+./node_modules/write-file-atomic
+total 24
+-rwxrwxrwx+ 1 chris chris  893 Mar 23 19:24 CHANGELOG.md
+-rwxrwxrwx+ 1 chris chris  734 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 3109 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris 6812 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1239 Mar 23 19:24 package.json
+./node_modules/xdg-basedir
+total 17
+-rwxrwxrwx+ 1 chris chris 1566 Mar 23 19:24 index.d.ts
+-rwxrwxrwx+ 1 chris chris  801 Mar 23 19:24 index.js
+-rwxrwxrwx+ 1 chris chris 1109 Mar 23 19:24 license
+-rwxrwxrwx+ 1 chris chris  642 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 1575 Mar 23 19:24 readme.md
+./node_modules/yallist
+total 26
+-rwxrwxrwx+ 1 chris chris  765 Mar 23 19:24 LICENSE
+-rwxrwxrwx+ 1 chris chris 4717 Mar 23 19:24 README.md
+-rwxrwxrwx+ 1 chris chris  207 Mar 23 19:24 iterator.js
+-rwxrwxrwx+ 1 chris chris  652 Mar 23 19:24 package.json
+-rwxrwxrwx+ 1 chris chris 8411 Mar 23 19:24 yallist.js
+./public
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 19:25 style
+./public/style
+total 0
+-rwxrwxrwx+ 1 chris chris 0 Mar 20 22:43 style.css
+./route
+total 4
+-rwxrwxrwx+ 1 chris chris 948 Mar 23 22:22 exam.js
+./sql
+total 4
+drwxrwxrwx+ 1 chris chris 0 Mar 23 22:27 exam
+./sql/exam
+total 27
+-rwxrwxrwx+ 1 chris chris 11560 Mar 23 22:28 backup.sql
+-rwxrwxrwx+ 1 chris chris  2668 Mar 23 22:07 ddl.sql
+-rwxrwxrwx+ 1 chris chris  1089 Mar 23 19:47 insert.sql
+-rwxrwxrwx+ 1 chris chris   207 Mar 23 19:28 kund.csv
+-rwxrwxrwx+ 1 chris chris   152 Mar 23 19:28 kund2vaccin.csv
+-rwxrwxrwx+ 1 chris chris    80 Mar 23 22:00 reset.sql
+-rwxrwxrwx+ 1 chris chris    64 Mar 23 19:42 setup.sql
+-rwxrwxrwx+ 1 chris chris   230 Mar 23 19:28 sjukdom.csv
+-rwxrwxrwx+ 1 chris chris   118 Mar 23 19:28 vaccin.csv
+-rwxrwxrwx+ 1 chris chris   102 Mar 23 19:28 vaccin2sjukdom.csv
+./src
+total 4
+-rwxrwxrwx+ 1 chris chris 738 Mar 23 22:25 exam.js
+./views
+total 0
+drwxrwxrwx+ 1 chris chris 0 Mar 23 21:18 exam
+./views/exam
+total 12
+-rwxrwxrwx+ 1 chris chris 174 Mar 20 22:39 footer.ejs
+-rwxrwxrwx+ 1 chris chris 836 Mar 20 22:42 header.ejs
+-rwxrwxrwx+ 1 chris chris 330 Mar 21 22:28 index.ejs
+-rwxrwxrwx+ 1 chris chris 328 Mar 21 22:28 search.ejs
+-rwxrwxrwx+ 1 chris chris 803 Mar 23 22:20 search_result.ejs
+-rwxrwxrwx+ 1 chris chris 715 Mar 23 20:54 visa.ejs

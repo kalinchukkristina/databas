@@ -1,0 +1,23 @@
+20220323192226
+.
+total 52
+drwxr-xr-x+ 1 chris chris     0 Mar 23 19:22 .dbwebb
+-rw-r--r--+ 1 chris chris 10501 Mar 23 19:22 INSTRUKTION_2020-03-26_rock.md
+-rw-r--r--+ 1 chris chris 10713 Mar 23 19:22 INSTRUKTION_2020-05-29_vapen.md
+-rw-r--r--+ 1 chris chris 10871 Mar 23 19:22 INSTRUKTION_2021-03-24_hund.md
+-rw-r--r--+ 1 chris chris 11214 Mar 23 19:22 INSTRUKTION_2021-05-28_vaccin.md
+-rw-r--r--+ 1 chris chris  3926 Mar 23 19:22 README_FIRST.md
+./.dbwebb
+total 0
+drwxr-xr-x+ 1 chris chris 0 Mar 23 19:22 exam
+./.dbwebb/exam
+total 1
+drwxr-xr-x+ 1 chris chris  0 Mar 23 19:22 file
+-rw-r--r--+ 1 chris chris 36 Mar 23 19:22 id.md
+drwxr-xr-x+ 1 chris chris  0 Mar 23 19:22 receipt
+./.dbwebb/exam/file
+total 1
+-rw-rw-r--+ 1 chris chris 699 Mar 23 19:22 20220323192226.txt
+./.dbwebb/exam/receipt
+total 1
+-rw-r--r--+ 1 chris chris 592 Mar 23 19:22 20220323182225.md

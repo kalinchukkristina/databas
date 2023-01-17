@@ -1,0 +1,31 @@
+<%- include("header", {title: title}); %>
+<div class="container">
+    <h1>Visa</h1>
+</div>
+
+<div class="main">
+
+    <p>Kunder och vaccin de har tagit</p>
+    <table class="table table-striped">
+            <tr>
+                <th>Preson's Name</th>
+                <th>Vaccin</th>
+                <th>Typ</th>
+                <th>Datum</th>
+            </tr>
+        <% for (const row of res) { %>
+            <tr>
+                <td><%= row.Namn %></td>
+                <td><%= row.Vaccin %></td>
+                <td><%= row.Typ %></td>
+                <td><%= row.Datum %></td>
+            </tr>
+        <% }; %>
+    </table>
+
+    <p>
+        <a href="index">Index</a>
+    </p>
+</div>
+
+<%- include("footer"); %>

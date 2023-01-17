@@ -1,0 +1,33 @@
+<%- include("header", {title: title}); %>
+<div class="main">
+    <h1>Your orders</h1>
+
+    <p>Your current order is: </p>
+    <table class="table table-striped">
+        <tr>
+            <th>Order Id</th>
+            <th>Customer Id</th>
+            <th>Number of rows in the order</th>
+            <th>Created</th>
+            <th>Status</th>
+            <th>Modify</th>
+        </tr>
+    <% for (const row of res) { %>
+        <tr>
+            <td><%= row.order_nummer %></td>
+            <td><%= row.kund %></td>
+            <td><%= row.rader %></td>
+            <td><%= row.added %></td>
+            <td><%= row.status %></td>
+            <td><a href="/eshop/order/current_order/<%= row.order_nummer %>">Modify</a></td>
+        </tr>
+    <% }; %>
+</table>
+
+<p>
+    <a href="index">Index</a>
+</p>
+</div>
+
+
+<%- include("footer"); %>

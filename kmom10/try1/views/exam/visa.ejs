@@ -1,0 +1,45 @@
+<%- include("header", {title: title}); %>
+<div class="container">
+    <h1>Visa</h1>
+</div>
+
+<div class="main">
+
+    <p>Vår fisk: </p>
+    <table class="table table-striped">
+            <tr>
+                <th>Fisk Namn</th>
+                <th>Fisk Namn in Latin</th>
+                <th>Månader</th>
+                <th>Min Temperatur</th>
+                <th>Max Temperatur </th>
+                <th>Familj</th>
+                <th>Familj in Latin</th>
+                <th>Odling började</th>
+                <th>Fiskens vikt</th>
+                <th>Lokal</th>
+                <th>Rum</th>
+            </tr>
+        <% for (const row of res) { %>
+            <tr>
+                <td><a href=<%= row.fisk_url %>><%= row.fisk %></a></td>
+                <td><%= row.fisk_latin %></td>
+                <td><%= row.manader %></td>
+                <td><%= row.temp_min %></td>
+                <td><%= row.temp_max %></td>
+                <td><a href=<%= row.fam_url %>><%= row.familj %></a></td>
+                <td><%= row.fam_latin %></td>
+                <td><%= row.start %></td>
+                <td><%= row.kg %></td>
+                <td><%= row.hus %></td>
+                <td><%= row.rum %></td>
+            </tr>
+        <% }; %>
+    </table>
+
+    <p>
+        <a href="index">Index</a>
+    </p>
+</div>
+
+<%- include("footer"); %>

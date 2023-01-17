@@ -1,0 +1,23 @@
+<%- include("header", {title: title}); %>
+<div class="main">
+    <h1>Categories</h1>
+
+    <p>Here is are all available categories of products</p>
+    <table class="table table-striped">
+            <tr>
+                <th>Name</th>
+            </tr>
+        <% for (const row of res) { %>
+            <tr>
+                <td><%= row.namn %></td>
+            </tr>
+        <% }; %>
+    </table>
+
+    <p>
+        <a href="index">Index</a>
+    </p>
+</div>
+
+
+<%- include("footer"); %>

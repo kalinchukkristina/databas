@@ -1,0 +1,28 @@
+<%- include("header", {title: title}); %>
+<div class="main">
+    <h1>Account balance</h1>
+
+    <p>Here is the balance for the accounts.</p>
+
+    <table class="table table-striped">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Balance</th>
+            </tr>
+        <% for (const row of res) { %>
+            <tr>
+                <td><%= row.id %></td>
+                <td><%= row.name %></td>
+                <td class="right"><%= row.balance %></td>
+            </tr>
+        <% }; %>
+    </table>
+
+    <p>
+        <a href="index">Index</a>
+    </p>
+</div>
+
+
+<%- include("footer"); %>

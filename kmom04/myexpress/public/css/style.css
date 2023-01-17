@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 8px 10%;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: beige;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+h3 {
+    margin-bottom: 10px;
+}
+.mebild {
+    width: 25vw;
+    float: left;
+    margin: 15px;
+}
+
+.myPic {
+    position: relative;
+    margin: 20px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.myDate {
+    margin-top: 1rem;
+}
+
+/*navbar*/
+.nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+    flex-wrap: wrap;
+}
+
+.nav-ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    list-style-type: none;
+    width: 100%;
+    background-color: rgb(136, 101, 177);
+}
+
+.nav-ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 1em;
+}
+
+.nav-ul li a:hover {
+    scale: 120%;
+    color: pink;
+}
+
+.hamburger {
+    background-color: transparent;
+    border: 0;
+    font-size: 1.2em;
+    cursor: pointer;
+    display: none;
+}
+
+.hamburger:focus {
+    outline: none;
+}
+
+
+
+/*footer*/
+.footerContainer {
+    margin-top: auto;
+    background-color: rgb(136, 101, 177);
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.footerContainer ul a {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.footerContainer ul a i:hover {
+    scale: 120%;
+    color: pink;
+}
+
+@media screen and (max-width: 767px) {
+    .mebild {
+        width: 100%;
+    }
+
+    h3 {
+        text-align: center;
+    }
+    .nav-ul {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .nav ul li {
+        width: auto;
+    }
+
+    .nav-ul.show {
+        display: flex;
+        background-color: rgb(136, 101, 177);
+    }
+
+    .hamburger {
+        display: block;
+        align-self: flex-end;
+    }
+}

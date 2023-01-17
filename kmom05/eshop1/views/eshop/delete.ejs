@@ -1,0 +1,27 @@
+<%- include("header", {title: title}); %>
+<div class="container main">
+    <h1>Delete product</h1>
+
+    <p>Here you can delete a product from database</p>
+
+    <div class="container form">
+        <h2>Update entry</h2>
+        <% res = res[0] %>
+        <form method="post" action="/eshop/delete">
+            <label>Product ID</label>
+            <input type="text" name="p_id" value="<%= res.produktid %>" readonly>
+            <label>Name</label>
+            <input type="text" name="p_namn" value="<%= res.namn %>" readonly>
+            <label>Description</label>
+            <input type="text" name="p_beskrivning" value="<%= res.beskrivning %>" readonly>
+            <label>Price</label>
+            <input type="number" name="p_pris" value="<%= res.pris %>" readonly>
+            <label>Picture</label>
+            <input type="text" name="p_bild" value="<%= res.bildlank %>" readonly>
+            <input type="submit" value="Delete">
+        </form>
+    </div>
+</div>
+
+
+<%- include("footer"); %>

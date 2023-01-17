@@ -1,0 +1,33 @@
+<%- include("header", {title: title}); %>
+<div class="container main">
+    <h1>Add product</h1>
+
+    <p>Add product to your order</p>
+
+    <div class="container form">
+        <h2>Choose one product and amount</h2>
+        <table class="table table-striped">
+            <th>Order ID</th>
+            <th>Product ID</th>
+            <th>Poduct name</th>
+            <th>Storage</th>
+            <th>Amount in the storage</th>
+            <th>Price</th>
+            <th>Choose your amount to add</th>
+        </table>
+        <% for (const row of res) { %>
+            <form action="/eshop/adding" method="post" class="form1">
+                <input type="text" name="orderID" value="<%= current_order %>" readonly>
+                <input type="text" name="chosenProd" value="<%= row.produktid %>" readonly>
+                <input type="text" value="<%= row.namn %>" readonly>
+                <input type="text" value="<%= row.hylla %>" readonly>
+                <input type="text" value="<%= row.antal %>" readonly>
+                <input type="text" name="price" value="<%= row.pris %>" readonly>
+                <input type="number" placeholder="Choose amount" name="antal" min="0" max="<%= row.antal %>">
+                <input type="submit" value="Add product">
+            </form>
+        <% }; %>
+    </div>
+    
+</div>
+<%- include("footer"); %>

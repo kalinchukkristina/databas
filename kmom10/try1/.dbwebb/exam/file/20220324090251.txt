@@ -1,0 +1,20 @@
+20220324090251
+.
+total 20
+drwxr-xr-x+ 1 chris chris     0 Mar 24 09:02 .dbwebb
+-rw-r--r--+ 1 chris chris 12576 Mar 24 09:02 INSTRUKTION.md
+-rw-r--r--+ 1 chris chris  3926 Mar 24 09:02 README_FIRST.md
+./.dbwebb
+total 0
+drwxr-xr-x+ 1 chris chris 0 Mar 24 09:02 exam
+./.dbwebb/exam
+total 1
+drwxr-xr-x+ 1 chris chris  0 Mar 24 09:02 file
+-rw-r--r--+ 1 chris chris 36 Mar 24 09:02 id.md
+drwxr-xr-x+ 1 chris chris  0 Mar 24 09:02 receipt
+./.dbwebb/exam/file
+total 1
+-rw-rw-r--+ 1 chris chris 452 Mar 24 09:02 20220324090251.txt
+./.dbwebb/exam/receipt
+total 1
+-rw-r--r--+ 1 chris chris 586 Mar 24 09:02 20220324080251.md

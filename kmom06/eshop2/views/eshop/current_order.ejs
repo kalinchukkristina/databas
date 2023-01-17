@@ -1,0 +1,39 @@
+<%- include("header", {title: title}); %>
+<div class="main">
+    <h1>Current Order</h1>
+
+    <p>Your current order contains following rows:</p>
+    <table class="table table-striped">
+        <tr>
+            <th>Row №</th>
+            <th>Order №</th>
+            <th>Product</th>
+            <th>Amount</th>
+            <th>Sum per row</th>
+        </tr>
+    <% for (const row of res) { %>
+        <tr>
+            <td><%= row.id %></td>
+            <td><%= row.order_nummer %></td>
+            <td><%= row.namn %></td>
+            <td><%= row.antal %></td>
+            <td><%= row.pris %></td>
+        </tr>
+    <% }; %>
+</table>
+
+<% for (const row2 of status) { %>
+    <% if (row2.status === "Ordered" || row2.status === "Sent") { %>
+        <p>This order has been successfully placed.</p>
+    <% } else{ %>
+        <button id="add"><a href="/eshop/order/create_order_rad/<%= current_order %>">Add product</a></button>
+        <button id="placed"><a href="/eshop/order/place_order/<%= current_order %>">Place order</a></button>
+    <% } %>
+<% }; %>
+
+
+
+</div>
+
+
+<%- include("footer"); %>

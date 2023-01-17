@@ -1,0 +1,31 @@
+<%- include("header", {title: title}); %>
+<div class="main">
+    <h1>Customers</h1>
+
+    <p>Registered customers</p>
+    <table class="table table-striped">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Adress</th>
+                <th>Phone</th>
+            </tr>
+        <% for (const row of res) { %>
+            <tr>
+                <td><%= row.id %></td>
+                <td><%= row.namn %></td>
+                <td><%= row.adress %></td>
+                <td><%= row.telefon %></td>
+                <td>
+                     <a href="/eshop/myorder/<%= row.id %>">CREATE ORDER</a>
+                </td>
+            </tr>
+        <% }; %>
+    </table>
+    <p>
+        <a href="index">Index</a>
+    </p>
+</div>
+
+
+<%- include("footer"); %>
